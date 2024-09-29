@@ -18,5 +18,5 @@ Esta é uma alteração feita a partir de um clone, via VSCODE na máquina local
 **2. Resolução de Issue.:<br>**
 Data de Realização.: 28-09-2024
 
-**3. Pull Request.:**
+**3. Pull Request.:**<br>
 Alteração feita Via Pull Request (PR)
